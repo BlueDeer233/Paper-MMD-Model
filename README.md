@@ -1,7 +1,18 @@
 # Paper-MMD-Model
 A project about projecting the model onto paper.
 
-environment：
-  win10 1903
-  visual studio 2017
+## Environment
+
+* Windows
+  * win 1903 pro
+  * Visual Studio 2017
+  * openframeworks 0.10.1
   
+## Required libraries
+
+Please prepare the following libraries.
+
+* OpenGL OpenCV
+* [Bullet Physics](http://bulletphysics.org/wordpress/)
+* [Saba](https://github.com/benikabocha/saba)
+* [openFrameworks](https://openframeworks.cc/)

@@ -16,3 +16,14 @@ Please prepare the following libraries.
 * [Bullet Physics](http://bulletphysics.org/wordpress/)
 * [Saba](https://github.com/benikabocha/saba)
 * [openFrameworks](https://openframeworks.cc/)
+
+### OpenFrameworks Addons
+
+* ofxAssimpModelLoader
+* ofxGui
+* ofxOpenCv
+* ofxVectorGraphics
+
+## Reference
+
+Reference article: [OpenGL与OpenCV实现增强现实](https://blog.csdn.net/yanglusheng/article/details/52268234)
